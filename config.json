@@ -13,11 +13,11 @@
   },
   "requires": [],
   "canContain": false,
-  "view": "modules/twitterfeed/index.html",
-  "files": ["modules/twitterfeed/controller.js", "modules/twitterfeed/directive.js"],
+  "view": "http://resources.kingofapp.com/modules/twitterfeed/index.html",
+  "files": ["http://resources.kingofapp.com/modules/twitterfeed/controller.js", "http://resources.kingofapp.com/modules/twitterfeed/directive.js"],
   "scope": {
-    "widgetid": "628892310084939776",
-    "limite": "2"
+    "widgetid": "",
+    "limite": "4"
   },
   "config": [{
     "templateOptions": {
