@@ -28,9 +28,10 @@
     "ios",
     "windows"
   ],
-  "view": "http://resources.kingofapp.com/modules/twitterfeed/index.html",
+  "view": "modules/twitterfeed/index.html",
+  "controller": "modules/twitterfeed/controller.js",
   "files": [
-    "http://resources.kingofapp.com/modules/twitterfeed/controller.js", "http://resources.kingofapp.com/modules/twitterfeed/directive.js"
+    "modules/twitterfeed/directive.js"
   ],
   "scope": {
     "widgetid": "",
