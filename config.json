@@ -15,7 +15,7 @@
   },
   "icon": "twitter",
   "type": "A",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "King of App",
   "category": [
     "social"
@@ -62,13 +62,12 @@
     "dragDrop": true
   },
   "images": {
-    "list": "modules/twitterfeed/images/list.png",
+    "list": "modules/twitterfeed/images/twitter_list.png",
     "screenshots": [
-      "modules/twitterfeed/images/screenshot01.png",
-      "modules/twitterfeed/images/screenshot02.png"
+      "modules/twitterfeed/images/twitter_screenshot.png"
     ],
-    "popover": "modules/twitterfeed/images/popover.png",
-    "banner": "modules/twitterfeed/images/banner.png",
-    "logo": "modules/twitterfeed/images/logo.png"
+    "popover": "modules/twitterfeed/images/twitter_popover.png",
+    "banner": "modules/twitterfeed/images/twitter_popover.png",
+    "logo": "modules/twitterfeed/images/twitter_icon.png"
   }
 }
