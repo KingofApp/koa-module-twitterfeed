@@ -30,7 +30,7 @@
   ],
   "view": "modules/twitterfeed/index.html",
   "files": [
-    "modules/twitterfeed/controller.js", "modules/twitterfeed/directive.js"
+    "modules/twitterfeed/controller.js", "modules/twitterfeed/directive.js", "modules/twitterfeed/style.css"
   ],
   "scope": {
     "widgetid": "",
