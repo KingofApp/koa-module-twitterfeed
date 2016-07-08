@@ -15,7 +15,7 @@
   },
   "icon": "twitter",
   "type": "A",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "King of App",
   "category": [
     "social"
@@ -30,7 +30,7 @@
   ],
   "view": "modules/twitterfeed/index.html",
   "files": [
-    "modules/twitterfeed/controller.js", "modules/twitterfeed/directive.js"
+    "modules/twitterfeed/controller.js", "modules/twitterfeed/directive.js", "modules/twitterfeed/style.css"
   ],
   "scope": {
     "widgetid": "",
