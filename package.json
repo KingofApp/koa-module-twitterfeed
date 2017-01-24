@@ -1,6 +1,6 @@
 {
   "name": "koapp-module-twitterfeed",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Activando este módulo tus seguidores podrán leer todo cuanto publiques en Twitter.",
   "directories": {
     "test": "test"
