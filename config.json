@@ -31,34 +31,24 @@
   "view": "modules/twitterfeed/index.html",
   "files": [
     "modules/twitterfeed/controller.js",
-    "modules/twitterfeed/directive.js",
     "modules/twitterfeed/style.css",
     "modules/twitterfeed/style2.css"
   ],
   "scope": {
-    "widgetid": "",
-    "limite": ""
+    "urlToEmbed": "https://twitter.com/KingofApp_ES"
   },
-  "config": [{
-    "templateOptions": {
-      "label": "widgetid",
-      "description": "id del widget",
-      "pattern": "^[a-zA-Z0-9]+$",
-      "required": true
-    },
-    "type": "input",
-    "key": "widgetid"
-  }, {
-    "type": "input",
-    "key": "limite",
-    "templateOptions": {
-      "label": "limite",
-      "pattern": "^[0-9]+$",
-      "required": true,
-      "maxlength": 2,
-      "description": "limite tweets"
+  "config": [
+    {
+        "templateOptions" : {
+            "label" : "Url of the Twitter to embed",
+            "required" : true,
+            "description" : "Url of the Twitter to embed"
+        },
+        "type" : "input",
+        "key" : "urlToEmbed"
     }
-  }],
+  ],
+  "config": [],
   "showOn": {
     "menu": true,
     "market": true,
