@@ -1,12 +1,11 @@
 <div ng-controller="twitterFeedCtrl" class="module twitterfeed">
 
-  <div class="loader" twitter-timeline="{{twitterfeed.modulescope.widgetid}}"
-       auto-resize="true"
-       data-tweet-limit="{{twitterfeed.modulescope.limite}}">
-       <div class="iframeLoading">
-         <div class='transitionloader'>
-         </div>
-       </div>
+  <a class="twitter-timeline" href="{{ urlToEmbed }}"></a>
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  <div class="iframeLoading">
+    <div class='transitionloader'>
+    </div>
   </div>
 
 </div>
