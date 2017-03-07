@@ -2,16 +2,16 @@
   "name": "Twitter Feed",
   "identifier": "twitterfeed",
   "description": {
-    "es-ES": "Activando esta opción, tus seguidores podrán leer todo cuanto publiques en Twitter. Para configurarlo, entra la url de tu perfil. P.e.  https://twitter.com/theKingofApp",
-    "en-US": "Activando esta opción, tus seguidores podrán leer todo cuanto publiques en Twitter. Para configurarlo, entra la url de tu perfil. P.e.  https://twitter.com/theKingofApp"
+    "es-ES": "Sincroniza tu aplicación con Twitter para incrementar el compromiso con tus seguidores e informarles de las publicaciones nuevas. Configúralo entrando la url de tu perfil. P.e.  https://twitter.com/theKingofApp",
+    "en-US": "Sync your application to Twitter to increase the engagement with your customers and inform them about new publications. Configure it by entering the url of your profile, for example https://twitter.com/theKingofApp"
   },
   "documentation": {
     "es-ES": "modules/twitterfeed/documentation/es_ES.md",
     "en-US": "modules/twitterfeed/documentation/en_US.md"
   },
   "descriptionShort": {
-    "es-ES": "Activando este módulo tus seguidores podrán leer todo cuanto publiques en Twitter.",
-    "en-US": "Activando este módulo tus seguidores podrán leer todo cuanto publiques en Twitter."
+    "es-ES": "Sincroniza tus publicaciones en Twitter con tu app!",
+    "en-US": "Sync your Twitter publications to your app!"
   },
   "icon": "twitter",
   "type": "A",
