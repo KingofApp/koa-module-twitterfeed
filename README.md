@@ -26,5 +26,5 @@ Dos campos a rellenar para que todo un feed de Twitter esté disponible en cualq
 ### Details:
 
 - Author: King of app
-- Version: 1.0.8
+- Version: 1.0.9
 - Homepage: www.kingofapp.com
